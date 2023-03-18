@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    I'm a Android Engineer & UI/UX Design
+    Sou Desenvolvedor Android💚
   </p>
   
  
@@ -18,9 +18,13 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gudiass&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudiass&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
-</div>
+</div> <br>
 
-<div align="center" valign="top"><br>
+  <p align="center">
+   Minhas technologias
+  </p>
+
+<div align="center" valign="top">
   <img align="center" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
