@@ -1,3 +1,5 @@
+
+          
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ea5e9&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Me+chamo+Gustavo+e+tenho+18+anos,;Sou+Desenvolvedor+React+Native💜;Bem+vindo!+:%29)](https://git.io/typing-svg)
@@ -19,10 +21,14 @@
       
 <h2 align="left">My Skills</h2>
 <div style="display: inline_block"><br>
-   <img align="center" alt="Savio-Firebase" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-   <img align="center" alt="Savio-Firebase" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-   <img align="center" alt="Savio-Firebase" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-   <img align="center" alt="Savio-Firebase" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />  
+<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />  
+<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />    
+          
+        
 </div>     
  
 <div>  
@@ -34,4 +40,4 @@
 
      
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=120&section=footer" />
