@@ -2,7 +2,7 @@
           
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ea5e9&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Me+chamo+Gustavo+e+tenho+18+anos,;Sou+Desenvolvedor+React+Native💜;Bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ea5e9&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Me+chamo+Gustavo+e+tenho+18+anos,;Sou+Desenvolvedor+Android💚;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gudiass&bg_color=0d1117&color=3b82f6&line=06b6d4&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -21,13 +21,8 @@
       
 <h2 align="left">My Skills</h2>
 <div style="display: inline_block"><br>
-<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />  
-<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />  
-<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />    
-          
+<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
         
 </div>     
  
